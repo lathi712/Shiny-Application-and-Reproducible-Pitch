@@ -1,11 +1,8 @@
-# Course-Project-Shiny-Application-and-Reproducible-Pitch
+# Shiny App and Reproducible Pitch
 
-This application is developed using R Studio. Shiny, a web 
-application framework for R is used for the app development.
-Application is used for:
+App used for:
 
-- Predicting music according to mood
-- Predicting movie according to genre
+- Predicting music w.r.t mood.
+- Predicting movie w.r.t genre.
 
-Main focus of the project was to develop an interacting 
-application rather than implementation of a suitable algorithm.
+
